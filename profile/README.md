@@ -8,21 +8,6 @@ We build clinical-grade AI tools that close the gap between hospital visits — 
 
 ---
 
-</div>
-
-## What We Build
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🩹 **[WoundWatch](https://github.com/medix-ai/woundwatch)** | Weekly diabetic foot ulcer tracking with amputation risk early warning | Active |
-| 🦵 **[Pivot](https://github.com/medix-ai/pivot_app)** | AI-guided knee replacement rehabilitation — ROM tracking, personalized exercises | Active |
-| 🔬 **[SonoCAIbe](https://github.com/medix-ai/sonocube)** | Ultrasound image AI analysis research | Research |
-| 🌿 **[SkinCoach](https://github.com/medix-ai/skincoach_app)** | Personalized skin health coaching | Active |
-| 👁️ **[OptiCare](https://github.com/medix-ai/opticare)** | AI-assisted eye care screening | Active |
-| ⚗️ **[ChemiCheck](https://github.com/medix-ai/chemicheck)** | Chemical safety analysis | Active |
-
----
-
 ## Focus Areas
 
 - **Remote Patient Monitoring** — continuous AI assessment between clinic visits
